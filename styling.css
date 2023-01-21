@@ -1,0 +1,59 @@
+
+
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-evenly;
+    font-size:xx-large;
+}
+.therapy{
+    background-color: #6FFFE0;
+  }
+  .therapy:hover{
+    background-color: #17AD94;
+  }
+.number{
+    color: #17AD94;
+    font-size: 3rem;
+}
+strike{
+    font-size: x-large;
+}
+.main-bttn{
+    font-size: large;
+}
+.logo{
+    width: 48vh;
+}
+a{
+    text-decoration: none;
+    color: antiquewhite;
+}
+a:hover{
+    color: aliceblue;
+}
+.expertise{
+    background-color: #17AD94;
+    border-radius: 1rem;
+ 
+
+}
+.cent{
+    margin: auto;
+    text-align: center;
+    align-content: center;
+}
+.inner{
+    margin: 1rem;
+    padding: 1rem;
+}
+.orderss{
+    padding-top: 0.5rem;
+}
+.fa{
+    margin: 1rem;
+    font-size:xx-large;
+    text-decoration: none;  
+    color:black;
+  }
